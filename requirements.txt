@@ -1,0 +1,9 @@
+python-dotenv
+transformers
+sentence-transformers
+datasets
+Pillow 
+pandas
+opencv-python 
+pdf2image
+pytesseract
